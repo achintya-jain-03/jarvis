@@ -6,4 +6,5 @@ NOTE-Following instructions work only for anaconda python.
 3)Enter the following in anaconda prompt
               conda env create -f jarvis.yml
               conda activate jarvis
-4)Run jarvismain.py in your ide               
+4)PLace all three files in same folder
+5)Run jarvismain.py in your ide               
