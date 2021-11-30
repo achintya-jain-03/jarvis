@@ -23,12 +23,11 @@ import JarvisMusic
 
 
 #  BASIC USER SETTINGS. EDIT AS REQUIRED
-name = 'Aniruddh'
+name = 'Achintya'
 voice_id = 0                          # Sets the voice to be used by Jarvis
 voice_rate = 200                      # Sets the rate for Jarvis's voice
 text_input = True                     # Sets text/voice input mode
-startup = '''\nJarvis: A Python AI
-Created by Aniruddh, Achintya and Armaan
+startup = '''\nJarvis: A Python AI-
 Jarvis initialising'''
 
 #  DO NOT EDIT THESE
