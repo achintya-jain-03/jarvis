@@ -1,0 +1,9 @@
+VIRTUAL ASSISTANT -JARVIS
+NOTE-Following instructions work only for anaconda python.
+
+1)Open anaconda prompt and note the path directory
+2)Copy the jarvis.yml file to the location
+3)Enter the following in anaconda prompt
+              conda env create -f jarvis.yml
+              conda activate jarvis
+4)Run jarvismain.py in your ide               
